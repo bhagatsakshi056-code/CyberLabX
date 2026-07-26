@@ -1,0 +1,28 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.navbar {
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.2);
+}
+
+.card {
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.list-group-item {
+    font-size: 18px;
+}
