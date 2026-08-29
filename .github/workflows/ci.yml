@@ -4,9 +4,9 @@ name: CyberLabX CI
 # You can add other branches later if you start using feature branches.
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
 
